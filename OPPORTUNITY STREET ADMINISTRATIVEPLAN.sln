@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPORTUNITY STREET ADMINISTRATIVEPLAN", "OPPORTUNITY STREET ADMINISTRATIVEPLAN\OPPORTUNITY STREET ADMINISTRATIVEPLAN.csproj", "{6EF9F5BF-9349-496A-9BF2-4C6D0C681F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF9F5BF-9349-496A-9BF2-4C6D0C681F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF9F5BF-9349-496A-9BF2-4C6D0C681F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF9F5BF-9349-496A-9BF2-4C6D0C681F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF9F5BF-9349-496A-9BF2-4C6D0C681F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250B8555-2C00-498E-8716-0DE2D9BAF7A3}
+	EndGlobalSection
+EndGlobal
